@@ -1,6 +1,6 @@
 package Bundle::CPANPLUS::Dependencies;
 
-$VERSION = "0.05";
+$VERSION = "0.06";
 
 1;
 
@@ -36,9 +36,7 @@ File::Fetch 0.08
 
 IO::Zlib 1.04
 
-IPC::Cmd 0.24
-
-IPC::Run 0.77
+IPC::Cmd 0.30
 
 Locale::Maketext::Simple 0.01
 
@@ -50,7 +48,7 @@ LWP::UserAgent
 
 Module::Build 0.2805
 
-Module::CoreList 1.97
+Module::CoreList 2.09
 
 Module::Load 0.10
 
@@ -62,9 +60,11 @@ Module::Pluggable 2.4
 
 Module::Signature 0.44
 
+Module::ThirdParty 0.16
+
 Net::FTP
 
-Object::Accessor 0.03
+Object::Accessor 0.32
 
 Package::Constants 0.01
 
